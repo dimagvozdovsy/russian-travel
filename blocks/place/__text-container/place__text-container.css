@@ -1,0 +1,12 @@
+.place__text-container {
+    display: flex;
+    flex-direction: column;
+    gap: 26px;
+  }
+  
+  @media screen and (max-width: 320px) {
+    .place__text-container {
+      padding-left: 16px;
+      max-width: 288px;
+    }
+  }
