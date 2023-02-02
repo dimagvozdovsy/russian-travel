@@ -1,6 +1,7 @@
 .lead__image {
     margin: 64px auto 0;
     width: 100%;
+    display: block;
   }
   
   @media screen and (max-width: 1024px) {
