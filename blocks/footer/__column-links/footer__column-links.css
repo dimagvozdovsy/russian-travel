@@ -7,6 +7,14 @@
   gap: 18px;
 }
 
+@media screen and (max-width: 768px) {
+  .footer__column-links {
+    flex-direction: column;
+    margin-bottom: 46px;
+    gap: 32px;
+  }
+}
+
 @media screen and (max-width: 720px) {
   .footer__column-links {
     flex-direction: column;
