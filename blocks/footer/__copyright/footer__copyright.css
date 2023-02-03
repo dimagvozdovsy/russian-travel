@@ -17,6 +17,5 @@
 @media screen and (max-width: 768px) {
   .footer__copyright {
     flex-direction: column;
-    margin-bottom: 24px;
   }
 }
